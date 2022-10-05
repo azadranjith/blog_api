@@ -1,0 +1,10 @@
+pip install django
+
+python manage.py stratproject p_name
+python manage.py startapp app_name
+python manage.py runserver
+python manage.py createsuperuser 
+python manage.py makemigrations
+python mange.py migrate
+
+pip install djangorestframework
